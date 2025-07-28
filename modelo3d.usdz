@@ -12,14 +12,14 @@
 </head>
 <body>
   <h1>Mi modelo 3D en AR</h1>
- <model-viewer 
-  src="AR-Code-1648706544779.usdz" 
-  ios-src="AR-Code-1648706544779.usdz" 
-  ar 
-  ar-modes="scene-viewer quick-look" 
-  camera-controls 
-  auto-rotate>
-</model-viewer>
+  <model-viewer 
+    src="AR-Code-1648706544779.usdz" 
+    ios-src="AR-Code-1648706544779.usdz" 
+    ar 
+    ar-modes="quick-look" 
+    camera-controls 
+    auto-rotate>
+  </model-viewer>
   <p>Si usas iPhone/iPad, toca el modelo para verlo en AR.</p>
 </body>
 </html>
